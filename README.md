@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajputakshat86" alt="rajputakshat86" /></a> </p>
 
-- 🌱 I’m currently learning **more about front-end and back-end technologies.hobbies Outside of code and Figma, you'll find me watching anime, hitting the gym, or gaming.**
+- 🌱 I’m currently learning **more about front-end and back-end technologies.**
 
 - 💬 Hobbies **Outside of code, you'll find me playing sports, hitting gym watching informative podcasts.**
 
